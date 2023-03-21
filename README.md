@@ -1,4 +1,4 @@
-Find all possible paths between two selected elements (without repeating same element).
+Find all possible paths between two selected elements (without repeating elements).
 
 [PoC] implementation of simple GraphSolution into analysing PipingSystem routes.
 
